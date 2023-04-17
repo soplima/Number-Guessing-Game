@@ -1,7 +1,7 @@
 # Number-Guessing-Game
 This is a simple Python program that generates a random number between 1 and 100 and asks the user to guess it. The program provides feedback on whether the guess is too high or too low until the user correctly guesses the number.
 
-How to Play:
+# How-to-Play
 1. Clone the repository or download the number_guessing_game.py file.
 2. Open the file in a Python IDE or text editor.
 3. Run the file.
